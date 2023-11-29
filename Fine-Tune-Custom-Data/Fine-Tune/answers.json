@@ -1,0 +1,303 @@
+[
+    {
+        "question": "Which mode of transport is advisable for traveling during traffic hours?",
+        "ft_answer": "When traveling in Delhi's traffic hours, the most convenient mode of transport is the metro, as it is often the least affected by traffic Auto-rickshaws and taxis may experience congestion, making travel uncomfortable",
+        "base_answer": "The best mode of transport during traffic hours is the bus.",
+        "correct_answer": "The Delhi Metro is a reliable option for traveling during rush hours, as it's not affected by road traffic. Auto-rickshaws and taxis might get stuck in traffic.",
+        "ift_answer": "For traveling during traffic hours, it's advisable to use public transport options like buses and metro lines These services have fewer delays and you can arrive at your destinations faster"
+    },
+    {
+        "question": "What are a few well-known markets worth visiting?",
+        "ft_answer": "Don's Stop is well-known for its exclusive range of designer clothing, while Chandni Chowk is renowned for its variety of products Additionally, Janpath is a more modern market offering a wider selection of trendy items",
+        "base_answer": "I'm going to be in Paris for a few days in the beginning of June. I'm looking for some markets that are worth visiting. I'm not looking for anything too touristy, but I'm not opposed to it either. I'm looking for markets that are more local and less touristy. I'm looking for markets that are more about the food and less about the touristy stuff. I'm looking for markets that are more about the food and",
+        "correct_answer": "Popular markets are Sarojini Nagar Market for cloth shoppings, Chandni Chowk for street food and fashion items, Khan Market for boutiques, Khari Baoli for spices and Dilli Haat for handicrafts",
+        "ift_answer": "Make sure to visit markets like Chandni Chowk, Khan Market, and Connaught Place, which offer a vibrant shopping experience and local delights Don't miss out on the excitement"
+    },
+    {
+        "question": "How can I reach the New Delhi Railway Station from the airport?",
+        "ft_answer": "The Delhi Airport and Railway Station are connected by the Delhi Metro Airport Express line You can transfer to either location with ease by taking the line from the airport to the railway station",
+        "base_answer": "The New Delhi Railway Station is located at a distance of 15 km from the Indira Gandhi International Airport. The easiest way to reach the railway station is by taking a taxi. The taxi fare from the airport to the railway station is around INR 400.",
+        "correct_answer": "You can take the Delhi Metro Airport Express line, which connects Indira Gandhi International Airport to New Delhi Railway Station directly. It's a quick and efficient way to travel between the two.",
+        "ift_answer": "You can take a train from the airport to the railway station The IRCTC Rail Connect Service operates 24/7"
+    },
+    {
+        "question": "Which places can I go to try out Street food",
+        "ft_answer": "Some popular places for street food include Chandni Chowk's Karim's, Paranthe Wali Gali, Khan Chacha's and the food stalls at Connaught Place You can also try out the wide variety of street snacks available at Delhi's markets like Connaught Place's CP Central Market and Delhi Haat",
+        "base_answer": "I'm going to be in London for a few days and I'm looking for some good places to try out street food. I'm not looking for anything fancy, just good food. I'm staying in the city centre, so I'm looking for places that are within walking distance. Any suggestions?",
+        "correct_answer": "You can visit Chandni Chowk, Connaught Place and Lajpat Nagar",
+        "ift_answer": "If you're a fan of Street food, here are some places in Delhi where you can enjoy it: Kyariya Pao, Paranthe Wali Gali, Chandni Chowk, Sarojini Nagar, and Connaught Place These areas are known for their diverse food options, including Street foods"
+    },
+    {
+        "question": "How should I go about using public transportation to get around the city?",
+        "ft_answer": " Delhi's metro system is the most efficient way to travel around the city The metro stations are well-connected to each other and are located within 2-3 km of each other",
+        "base_answer": "Public transportation is a great way to get around the city. The city has a very extensive bus system, and the subway system is also very extensive. The subway system is very easy to use, and the buses are also very easy to use. The buses are also very cheap, and the subway system is also very cheap.",
+        "correct_answer": "When getting around Delhi using public transportation, you have several options, including the buses, auto-rickshaw, and metro. The metro is a particularly convenient choice for accessing major city attractions.",
+        "ift_answer": "The Delhi Metro is a convenient way to travel within the city You can also use auto-rickshaws, buses, and taxis to get around"
+    },
+    {
+        "question": "What are some unconventional or lesser-known attractions that are worth a visit?",
+        "ft_answer": "Explore Delhi's unconventional attractions, such as the 'Lok Kala Manch' theatre festival, Nehru Planetarium and the National Rail Museum, for a unique experience These attractions offer a more in-depth understanding of the city's culture and history",
+        "base_answer": "I'm not sure if this is unconventional or lesser-known, but I'm a big fan of the \"Mystery Spot\" in Santa Cruz, CA. It's a small park with a small museum and a small gift shop. The park is built on a hill, and the museum has a bunch of exhibits about the history of the park and the history of the \"mystery spot\" itself. The gift shop sells a bunch of books about the park",
+        "correct_answer": "Indeed, you can explore places like  National Rail Museum, Tughlaqabad Fort, Doll Museum, and  Agrasen ki Baoli for unique and quieter experiences in the city.",
+        "ift_answer": "You might want to consider visiting unconventional attractions like science parks, air force museums, or nature reserves These places offer a different kind of entertainment and provide an opportunity for education and exploration"
+    },
+    {
+        "question": "Can I use the Metro to travel to historical and cultural sites?",
+        "ft_answer": "Yes, the Metro provides easy access to historical and cultural sites in Delhi such as Red Fort, Qutub Minar, Delhi Museum, India Gate and  Jama Masjid For more information, visit the Metro website",
+        "base_answer": "Yes, the Metro is a great way to travel to the city\u2019s most popular attractions. The Metro is a fast, convenient and affordable way to travel to the city\u2019s most popular attractions.",
+        "correct_answer": "Absolutely, the Delhi Metro conveniently connects to historical landmarks such as the Red Fort, Qutub Minar, Humayun's Tomb, and cultural hubs like Dilli Haat, allowing tourists to explore these sites easily.",
+        "ift_answer": "Absolutely, the Metro is a convenient way to access historical and cultural sites Many of these sites have dedicated metro stations"
+    },
+    {
+        "question": "Could you recommend the key tourist attractions in Delhi that I should include in my itinerary?",
+        "ft_answer": "Ensure you include iconic Delhi attractions like India Gate and Rajpath, Red Fort, Qutub Minar, Humayun's Tomb, the Lotus Temple and the grand Mughal-era Shahjahanabad during your visit",
+        "base_answer": "I am planning a trip to Delhi in the next few months. I would like to visit the key tourist attractions in Delhi. Could you recommend the key tourist attractions in Delhi that I should include in my itinerary?",
+        "correct_answer": "When planning your visit to Delhi, be sure to include renowned landmarks such as India Gate, Red Fort, and the Lotus Temple in your must-see list.",
+        "ift_answer": "Absolutely, consider including tourist attractions like the iconic Red Fort, Qutub Minar, India Gate, Humayun's Tomb, the Lotus Temple and the Taj Mahal-like Jama Masjid Mosque in your customized itinerary to enjoy a comprehensive experience Don't forget to also visit renowned museums like the India Museum and the National Science Museum"
+    },
+    {
+        "question": "When is the prime season to enjoy Delhi's tourist destinations?",
+        "ft_answer": "Delhi's tourist destinations are optimally enjoyed during the winter season, which generally spans from October to March The months of December and January are particularly pleasant, as the city experiences pleasant weather",
+        "base_answer": "The best time to visit Delhi is from October to March. The weather is pleasant and the city is full of life.",
+        "correct_answer": "To make the most of your visit to Delhi's attractions, consider planning your trip during the winter season, which usually spans from October to March. The comfortable weather during this time enhances the overall experience.",
+        "ift_answer": "You can enjoy Delhi's tourist destinations better by planning your visit during the winter season, which typically extends from October to March This period offers the most favorable conditions for outdoor exploration"
+    },
+    {
+        "question": "Are there street food areas that are popular for late breakfast or brunch?",
+        "ft_answer": "Yes, areas like Chandni Chowk, Khan Market and Connaught Place are known for their street food options even during the time for brunch or breakfast They serve as ideal spots for a leisurely meal at this time of the day",
+        "base_answer": "I'm looking for a place that is open late (until 3 or 4pm) and serves a variety of food. I'm thinking of places like the food stalls in the markets in Paris, but I'm not sure if there are any in London.",
+        "correct_answer": "Yes, some areas like Paranthe Wali Gali in Chandni Chowk are known for serving breakfast delicacies like stuffed parathas, making them perfect for a late breakfast or brunch.",
+        "ift_answer": "Yes, areas like Connaught Place, Lajpat Nagar and Chandni Chowk have a lively street food scene that are perfect for enjoying breakfast or brunch Some popular dishes to try are egg-based dishes, parathas, and local chaat"
+    },
+    {
+        "question": "Which markets in are known for their book selections, especially for avid readers?",
+        "ft_answer": "Book markets in Delhi such as Daryaganj Book Street and Karol Bagh's Book Street are popular for their vast collection of rare and second-hand books, making them ideal spots for avid readers Several bookstores within these markets offer a wide range of literary titles, making them excellent choices for bookworms",
+        "base_answer": "I'm looking for a place to buy books in the following cities:",
+        "correct_answer": "Daryaganj's Sunday Book Market is a renowned destination for book enthusiasts, offering an extensive collection of both new and second-hand books, including rare editions and popular titles.",
+        "ift_answer": "Delhi's markets, including Chandni Chowk, Atlas Mall, and Connaught Place, are renowned for their diverse book offerings, particularly catering to readers looking for a wide range of genres Other popular options include markets like Hauz Khas and Khan Market, both known for their eclectic book culture"
+    },
+    {
+        "question": "How can I go about booking an auto-rickshaw in Delhi as a tourist?",
+        "ft_answer": "To book an auto-rickshaw as a tourist in Delhi, you can use the 'Auto-rickshaw Booking' feature in the Uber app Simply enter your destination and tap 'Auto-rickshaw' as the mode of transportation",
+        "base_answer": "I am planning to visit Delhi in the coming months. I am a tourist and I would like to hire an auto-rickshaw to travel around the city. I have heard that it is not advisable to hire an auto-rickshaw as a tourist. Is this true? If so, what are the alternatives?",
+        "correct_answer": "Booking an auto-rickshaw in Delhi as a tourist is as easy as stop one down from the street.Additionally, tourists can opt for ride-hailing apps such as Uber..",
+        "ift_answer": "You can book an auto-rickshaw by mentioning the word 'taxi' or 'auto' in Hindi or English The drivers usually understand either language"
+    },
+    {
+        "question": "How can I plan an efficient sightseeing itinerary in Delhi?",
+        "ft_answer": "Plan an efficient sightseeing itinerary in Delhi by prioritizing landmarks like Parliament House, India Gate, Qutub Minar, Jama Masjid, and the Red Fort, according to the time of day you wish to visit them Choose outdoor activities like walking tours and auto-rickshaw rides for the afternoon",
+        "base_answer": "I am planning a trip to Delhi for 3 days. I would like to visit the major tourist attractions in Delhi. I would like to know how can I plan an efficient sightseeing itinerary in Delhi?",
+        "correct_answer": "Research the attractions you want to visit and group them by proximity. Use the Delhi Metro for longer distances and autos/taxis for shorter ones to maximize your time.",
+        "ift_answer": "Plan your sightseeing activities in Delhi during non-peak hours to avoid crowds and enjoy your own pace Consider researching which attractions have shorter lines and when to arrive"
+    },
+    {
+        "question": "Are there any less-known attractions in Delhi that are worth exploring?",
+        "ft_answer": "Certainly, consider exploring attractions in Delhi such as 'Lok Kala Manch' (Cultural Center), 'Janpath' (Shopping Street), 'Lal Qila' (Red Fort), and 'Humayun's Tomb' for less crowded experiences and unique cultural experiences For more information, refer to our guide to Delhi's best attractions",
+        "base_answer": "I am planning to visit Delhi for 3 days. I am looking for some less-known attractions in Delhi. I am not interested in the usual touristy places. I am looking for some offbeat places.",
+        "correct_answer": "Yes, you can discover places like Agrasen ki Baoli, Mehrauli Archaeological Park, Shanti Van Tughlaqabad Fort, Doll Museum and the National Rail Museum for distinctive and quieter experiences.",
+        "ift_answer": "Certainly, consider visiting places like Sultanpur's lake, Shambhu Dham, Shaniwarwada Fort, and the National Rail Museum for unique and less-crowded experiences Don't miss out on the chance to explore these lesser-known gems"
+    },
+    {
+        "question": "What is the preferred means of transportation for longer journeys?",
+        "ft_answer": "When traveling longer distances, a well-connected train is often the preferred choice, as it ensures you don't have to rely on transfers For shorter trips, an air-conditioned bus or cab may be more convenient",
+        "base_answer": "The preferred means of transportation for longer journeys is the car.",
+        "correct_answer": "When embarking on longer journeys within Delhi, it is recommended to choose metro services or taxis.",
+        "ift_answer": "For longer journeys, the Delhi Metro is often preferred It is a fast and efficient way to travel within the city"
+    },
+    {
+        "question": "How can I ensure safe transportation when traveling at night within the city?",
+        "ft_answer": "Make sure you travel during the day for safer transportation when traveling at night within the city Moreover, ensure reliable taxis for safer transportation at night",
+        "base_answer": "The city of San Diego has a number of resources to help you get around safely at night.",
+        "correct_answer": "For safe transportation at night within the city, consider using registered taxi services like Uber or Ola. Additionally, you can rely on the safety of the Delhi Metro, which operates between 6 AM and 11 PM.",
+        "ift_answer": "To ensure safe transportation at night, consider using public transport or a trusted taxi Make sure to research which metro stations are currently operating and check with the driver before entering"
+    },
+    {
+        "question": "Is the Delhi Metro well-connected to both historical landmarks and cultural destinations in the city?",
+        "ft_answer": "Absolutely, Delhi Metro offers quick connectivity to historical landmarks and cultural destinations including the Red Fort, Qutub Minar, India Gate, Humayun's Tomb, Jama Masjid, Nehru Planetarium, Nehru Science Centre and the National Rail Museum Additionally, it provides access to modern attractions like the India Gate and Nehru Place",
+        "base_answer": "The Delhi Metro is a boon for the city\u2019s residents. It is a fast, efficient and convenient mode of transport that connects the city\u2019s major landmarks and cultural destinations.",
+        "correct_answer": "Yes, the Delhi Metro boasts excellent connectivity to historical landmarks such as the Red Fort and Qutub Minar, as well as cultural hotspots. This makes it a highly accessible and efficient mode of transportation for tourists wanting to visit these sites.",
+        "ift_answer": "The Delhi Metro is well-connected to a variety of historical landmarks, heritage sites, and cultural destinations in the city, offering a seamless blend between tradition and modernity Some of the metro's popular routes that cater to tourists include Connaught Place, Khan Market, Red Fort, and Agra Fort"
+    },
+    {
+        "question": "What's the local cuisine like in the city?",
+        "ft_answer": "Delhi offers a wide variety of cuisine options, including traditional dishes like Dal-chaap, Roti, and Sabzi, as well as modern dishes like pizzas and burgers Be sure to try some of the city's famous street food fares while you're exploring",
+        "base_answer": "The local cuisine is a mix of traditional and modern. The traditional dishes are based on meat, potatoes, and vegetables. The modern dishes are based on meat, potatoes, and vegetables.",
+        "correct_answer": "Delhi is famous for its street food and diverse culinary scene. Don't miss trying chaat, kebabs, and Mughlai dishes, Momos, Chole Bhature, Paranthas, Dahi Bhalle.",
+        "ift_answer": "The local cuisine in the city is a mix of traditional and modern dishes Some popular dishes include biryani, kebabs, and chaat"
+    },
+    {
+        "question": "What are the transportation options available to reach Delhi's attractions?",
+        "ft_answer": "To reach Delhi's attractions, you can choose to use the convenient Delhi Metro service or taxis at affordable prices The metro is a fast and efficient option",
+        "base_answer": "The city of Delhi is well connected by road, rail and air. The city has a well-developed road network and is connected to all the major cities of the country. The city has a well-developed rail network and is connected to all the major cities of the country. The city is also connected to all the major cities of the country by air.",
+        "correct_answer": "Delhi's attractions are conveniently accessible through a variety of transportation options, including the extensive Delhi Metro network, public buses, auto-rickshaws, taxis, and car rentals. Most attractions are well-connected within the city.",
+        "ift_answer": "To reach Delhi's attractions, you can utilize a variety of transportation options, including the extensive Delhi Metro, public buses, auto-rickshaws, taxis, and car rentals The Metro is particularly convenient, as most attractions have metro stations nearby"
+    },
+    {
+        "question": "Are there any wildlife getaways near Delhi?",
+        "ft_answer": "Yes, you can visit getaways like Jim Corbett National Park, Sariska Tiger Reserve and Bharatpur Bird Sanctuary for wildlife and nature retreats from the city Many Delhi tourists visit these wildlife getaways for wildlife safaris and nature experiences",
+        "base_answer": "There are many wildlife getaways near Delhi. The best wildlife getaways near Delhi are Jim Corbett National Park, Kanha National Park, Bandhavgarh National Park, Ranthambore National Park, and Sariska National Park.",
+        "correct_answer": "Yes, places like Jim Corbett National Park, Sariska Tiger Reserve and Bharatpur Bird Sanctuary,  are within driving distance from Delhi.",
+        "ift_answer": "Yes, you can visit wildlife getaways like Jim Corbett National Park and Sariska Tiger Reserve, both located within driving distance from Delhi, for wildlife exploration Consider booking a day trip to experience the natural beauty of these parks"
+    },
+    {
+        "question": "Which nearby hill stations can I visit for 2-3 days?",
+        "ft_answer": "If you're looking for 2-3 days hill stations near Delhi, then consider exploring destinations like Manali, Mussoorie, Ranikhet and Nainital for a memorable experience",
+        "base_answer": "I am planning a trip to the hills for 2-3 days. I am looking for a place that is not too far from Delhi. I am looking for a place that is not too far from Delhi. I am looking for a place that is not too far from Delhi. I am looking for a place that is not too far from Delhi. I am looking for a place that is not too far from Delhi. I am looking for a place that is not too far from Delhi.",
+        "correct_answer": "You have several nearby options for a weekend break from Delhi, including hill stations like Shimla, Manali, Mussoorie, Kasaulo, and Nainital, each offering a refreshing getaway.",
+        "ift_answer": "If you're looking for nearby hill stations to visit for 2-3 days, consider these options: 1 Dharamshala2"
+    },
+    {
+        "question": "What's the process for booking an auto-rickshaw in Delhi?",
+        "ft_answer": "To book an auto-rickshaw in Delhi, download the 'Bhavini' app Select 'Auto' under the 'Rickshaw' tab",
+        "base_answer": "The process for booking an auto-rickshaw in Delhi is simple. You can either book an auto-rickshaw online or offline.",
+        "correct_answer": "To book an auto-rickshaw, you can simply flag one down from the street. Negotiate the fare before starting the ride, and consider using ride-hailing apps like Ola and Uber for a more standardized experience.",
+        "ift_answer": "You can book an auto-rickshaw either through the driver, which is recommended for convenience, or via mobile apps like Ola or Uber Make sure to have the app installed and activated on your device"
+    },
+    {
+        "question": "Is the Metro a practical choice for accessing historical and cultural sites?",
+        "ft_answer": "Yes, the Metro can be a practical choice for accessing historical and cultural sites, as stations frequently located within walking distance of attractions Delhi offers an integrated Metro station locator app that provides real-time metro information",
+        "base_answer": "The Metro is a practical choice for accessing historical and cultural sites.",
+        "correct_answer": "Certainly, the Delhi Metro provides a practical and efficient means of reaching historical landmarks. It's a convenient option for tourists looking to explore these sites hassle-free.",
+        "ift_answer": "Absolutely, the Metro provides access to numerous historical and cultural sites in Delhi Many of these sites have historical significance and are worth exploring"
+    },
+    {
+        "question": "Could you recommend some iconic dishes from Delhi's local culinary scene that are worth trying?",
+        "ft_answer": "Certainly, Delhi's local culinary scene boasts iconic dishes like Makki di Roti (flatbread made with whole wheat flour), Aloo Tikki, Chole Bhature, Dahi Bhalla and Lassi I recommend trying these iconic dishes for a delicious dining experience",
+        "base_answer": "I'm a big fan of the street food scene in Delhi. The best way to experience it is to go to a market and find a place to sit down. I love the chaat (snacks) at the Chandni Chowk market, and the paranthas (flatbreads) at the Paranthewali Gali market.",
+        "correct_answer": "Don't miss out on trying iconic dishes from Delhi's local culinary scene, including Butter Chicken, Chole Bhature, Paratha, and a diverse selection of kebabs.",
+        "ift_answer": "Certainly, try the classic kebabs, jalebi, dhokla, chole bhature, aloo puri, and a variety of biryanis The diversity in terms of taste and flavors make it a rewarding experience to explore the distinct flavors of Indian cuisine"
+    },
+    {
+        "question": "What's the best approach for using public transportation to explore the city?",
+        "ft_answer": "Using Delhi's well-developed metro system and buses is the most convenient way to explore the city Many major attractions have dedicated metro stations for easy access",
+        "base_answer": "I'm planning a trip to Chicago in the fall and I'm trying to figure out the best way to get around the city. I'm not sure if I should buy a pass for the CTA or just buy individual tickets. I'm also not sure if I should buy a pass for the Metra or just buy individual tickets. I'm also not sure if I should buy a pass for the CTA or just buy individual tickets. I'm also not sure if I",
+        "correct_answer": "To explore Delhi using public transportation, consider the available options such as the extensive metro network, taxis, auto-rickshaw and buses.",
+        "ift_answer": "To explore the city, we recommend you download the Delhi Metro App, which makes navigation seamless Also, consider using Auto-rickshaws or the app 'Ola' for faster travel during peak hours"
+    },
+    {
+        "question": "How can tourists easily visit Delhi's famous markets?",
+        "ft_answer": "To visit Delhi's famous markets, the Delhi Metro is a convenient option Taxis and auto-rickshaws may lead to traffic jams",
+        "base_answer": "Delhi is a city of markets. The markets of Delhi are famous for their variety and quality. The markets of Delhi are also famous for their variety and quality. The markets of Delhi are also famous for their variety and quality. The markets of Delhi are also famous for their variety and quality. The markets of Delhi are also famous for their variety and quality. The markets of Delhi are also famous for their variety and quality. The markets of Delhi are also famous for their variety and quality. The",
+        "correct_answer": "Auto-rickshaws, metro, buses and cabs are readily available for access. The most popular choice is the Delhi Metro, which is equipped with dedicated stations for these markets.",
+        "ift_answer": "Delhi's markets are easily accessible by tourists, as many of them offer convenient transportation services, ensuring a seamless visit Many markets have their own metro stations, which provides a fast and efficient way to reach them"
+    },
+    {
+        "question": "Are there markets with a selection of handicrafts and home decor items?",
+        "ft_answer": "Yes, markets like Dilli Haat, Nehru Palace, and Kamla Nagar have a wide variety of handicrafts, home decor items, and cultural performances These markets are ideal for purchasing unique souvenirs and enjoying cultural performances",
+        "base_answer": "Yes, there are markets with a selection of handicrafts and home decor items.",
+        "correct_answer": "Yes, markets like Delhi Haat and Crafts Museum offer a wide range of handicrafts, textiles, and home decor items that showcase India's craftsmanship.",
+        "ift_answer": "Yes, many markets in Delhi include options for handicrafts, home decor items, and souvenirs For example, the Janpath Market and Sarojini Nagar market offer a wide range of handicrafts and home decor items"
+    },
+    {
+        "question": "What is the recommended time of year to visit Delhi's tourist spots for comfortable weather?",
+        "ft_answer": "You can enjoy comfortable weather at Delhi's tourist spots during the winter season, which typically spans from October to March The months of December, January and February are when the city is at its most pleasant",
+        "base_answer": "I am planning to visit Delhi in the month of March. I am not sure if it is a good time to visit Delhi. I am planning to visit the tourist spots in Delhi. I am not sure if it is a good time to visit Delhi. I am planning to visit the tourist spots in Delhi. I am not sure if it is a good time to visit Delhi.",
+        "correct_answer": "For a comfortable and enjoyable visit to Delhi's tourist spots, consider the winter season, which typically occurs from October to March.",
+        "ift_answer": "For comfortable weather, it's recommended to visit Delhi's tourist spots during the winter season, typically occurring from October to March"
+    },
+    {
+        "question": "What are the different types of metro cards available for tourists?",
+        "ft_answer": "Tourists have the option to purchase a metro card that can be used for all travel within a specific day Known as a \"One Day Pass,\" a \"Tourist Card\" provides unlimited travel within a specified time frame",
+        "base_answer": "The New York City MetroCard is a smart card fare payment system used by the New York City Subway, Staten Island Railway, and the New York City Bus. It is also used by the Long Island Rail Road, Metro-North Railroad, and the Staten Island Ferry.",
+        "correct_answer": "Tourists can choose from a 'Tourist Card' offering unlimited travel for a certain number of days, or a 'Stored Value Card' (Smart Card) that can be recharged for multiple rides.",
+        "ift_answer": "Tourists can purchase a 'Tours' card, which allows multiple entries within a specific time, and a 'Single' card for one entry It's a great way to explore multiple attractions"
+    },
+    {
+        "question": "Which markets in Delhi are renowned for offering a selection of handicrafts and jewellery?",
+        "ft_answer": "To explore a diverse range of handicrafts and jewellery, markets like Chandni Chowk and Karol Bagh are renowned Known for their offerings, Delhi boasts a variety of markets that offer an array of handicrafts and jewellery",
+        "base_answer": "The markets in Delhi are renowned for offering a selection of handicrafts and jewellery. The markets in Delhi are renowned for offering a selection of handicrafts and jewellery. The markets in Delhi are renowned for offering a selection of handicrafts and jewellery. The markets in Delhi are renowned for offering a selection of handicrafts and jewellery.",
+        "correct_answer": "Janpath Market and Delhi Haat are widely recognized markets where you can find an extensive range of traditional handicrafts and jewellery.",
+        "ift_answer": "While exploring markets like Chandni Chowk, Kinari Bazar, and Sarojini Nagar for fashion items, consider visiting stores that specialize in handcrafted products This includes shops that focus on jewellery and handicrafts like Maa Chaudhary Jewellers, Shoppers Stop, and Shimmer"
+    },
+    {
+        "question": "What are the popular areas or tourist spots in Delhi where tourists can easily find auto-rickshaws?",
+        "ft_answer": "Delhi offers extensive transportation options including auto-rickshaws, buses, and the recently launched Metro Most tourist spots have a dedicated lane for auto-rickshaws, making it easy for passengers to find and board the vehicle",
+        "base_answer": "Auto-rickshaws are the most popular mode of transport in Delhi. They are available in all parts of the city. The auto-rickshaws are available in all parts of the city. The auto-rickshaws are available in all parts of the city. The auto-rickshaws are available in all parts of the city. The auto-rickshaws are available in all parts of the city.",
+        "correct_answer": "Tourists can easily find auto-rickshaws near popular areas and tourist spots in Delhi, including Connaught Place, India Gate, and major metro stations.",
+        "ift_answer": "Popular tourist spots or areas in Delhi that can be easily reached by auto-rickshaws include the Red Fort, Qutub Minar, India Gate, Humayun's Tomb, and the Lotus Temple These places are easily accessible by auto-rickshaws, making them ideal for tourists looking to explore these historic or cultural sites"
+    },
+    {
+        "question": "Are there attractions in Delhi that offer cultural performances or events?",
+        "ft_answer": "Yes, attractions like Nehru Planetarium, Nehru Memorial Museum, and National School of Drama offer cultural performances and events They are popular choices for experiencing Delhi's culture and arts",
+        "base_answer": "Answers from Our Experts (1)",
+        "correct_answer": "Yes, attractions like Dilli Haat and Kingdom of Dreams offer cultural performances, traditional crafts, and entertainment options that showcase Delhi's diverse culture.",
+        "ift_answer": "Yes, attractions like the India Gate and Nehru Park, both located in New Delhi, offer cultural performances and events for visitors to enjoy Many occasions like Diwali and Holi are celebrated here with great enthusiasm"
+    },
+    {
+        "question": "How can I pay for cab rides?",
+        "ft_answer": "You can pay for cab rides using cash, available payment options like credit or debit cards, or the mobile app Ola Most drivers are familiar with popular routes like Delhi Airport and Delhi Downtown",
+        "base_answer": "You can pay for your cab rides with cash, credit card, or debit card.",
+        "correct_answer": "You can pay for cab rides using cash, digital wallets, or linked credit/debit cards through the respective cab service apps. Most drivers prefer digital payments for convenience.",
+        "ift_answer": "You can pay for cab rides using digital payment methods such as Google Pay, Apple Pay, or cash Many drivers accept digital payments, but you can also pay using card"
+    },
+    {
+        "question": "Is there a separate fare for using the Airport Express line?",
+        "ft_answer": "Yes, there is a separate fare for using the Airport Express line Passengers traveling from Delhi's Indira Gandhi International Airport to the airport's dedicated terminal (Terminal 3) using the Airport Express line are required to pay a supplementary fare in addition to the regular fare for the same journey",
+        "base_answer": "Yes, there is a separate fare for using the Airport Express line.",
+        "correct_answer": "Yes, the Airport Express line has a separate fare structure. You can use your Smart Card, Token, or other payment methods to travel on this line, but the fare may be different from other lines.",
+        "ift_answer": "Yes, the fare for using the Airport Express line includes a separate fare In Delhi, the fare for one-stop trips on the Airport Express line is Rs"
+    },
+    {
+        "question": "How can I reach the Delhi Metro from the airport?",
+        "ft_answer": "The airport terminal is connected to the Delhi Metro Red Line at Terminal 1 and Terminal 3 Use the metro for rapid access to the city",
+        "base_answer": "The airport is connected to the Delhi Metro by the Airport Express Line. The Airport Express Line is a 23 km long underground metro line that connects the airport to the New Delhi railway station. The Airport Express Line is the fastest way to reach the city from the airport. The Airport Express Line runs every 15 minutes and takes 30 minutes to reach the New Delhi railway station.",
+        "correct_answer": "Delhi's Indira Gandhi International Airport is well-connected to the Delhi Metro. You can access the metro station directly from Terminal 3, and there are shuttle services connecting Terminals 1 and 2 to the metro station.",
+        "ift_answer": "You can take the Metro from the airport to your destination The stations INCLUDE Terminal 1 and 2, and you can access them by taking the airport shuttle or by metro"
+    },
+    {
+        "question": "What choices do tourists have when it comes to metro cards?",
+        "ft_answer": "Tourists have the option of purchasing a single-journey ticket or a multi-journey card that provides multiple trips within a specified time frame The multi-journey card is often more cost-effective",
+        "base_answer": "The New York City subway system is one of the most extensive in the world. It is also one of the most expensive.",
+        "correct_answer": "For tourists in Delhi, there are two primary choices for metro cards: the 'Tourist Card,' which offers unlimited travel for a set duration, and the 'Stored Value Card' (Smart Card), ideal for multiple rides and easy top-ups.",
+        "ift_answer": "Tourists can purchase single-use cards that accommodate up to 3 rides, daily cards for 1, 3, 5, 7 days, and public transit cards that accommodate 1, 2, 3 days Travelers can choose the appropriate card depending on their intended usage"
+    },
+    {
+        "question": "What's the best time to visit Delhi?",
+        "ft_answer": "On your Delhi tour, the best time to visit depends on what you're looking for For outdoor activities and historical sites, November to March is ideal",
+        "base_answer": "The best time to visit Delhi is from October to March. The weather is pleasant and the city is not too crowded.",
+        "correct_answer": "The best time to visit Delhi is from October to March when the weather is pleasant and suitable for exploring outside.",
+        "ift_answer": "Delhi experiences a hot and humid summer season from March to October, with peak temperatures typically occurring between  October-February To enjoy your visits, consider scheduling your activities for early mornings or late afternoons"
+    },
+    {
+        "question": "What transportation choices are ideal for a comfortable experience during summer in Delhi?",
+        "ft_answer": "To experience a comfortable summer while traveling in Delhi, it's advisable to opt for air-conditioned transportation options like taxis, rideshares, and the Metro Further recommendations include wearing light clothing, staying hydrated, and avoiding direct sunlight",
+        "base_answer": "The summer season in Delhi is a time when the temperature rises to 45 degrees Celsius. The scorching heat of the sun makes it difficult for people to travel. The best way to travel during this time is to use the air-conditioned metro. The metro is the most comfortable and convenient way to travel in Delhi.",
+        "correct_answer": "For a comfortable experience during hot weather in Delhi, opt for air-conditioned transportation options such as taxis and metro services. You can also opt for some air conditioned buses.",
+        "ift_answer": "To experience a comfortable summer in Delhi, choose air-conditioned buses, metro stations, and taxis Avoid non-airconditioned trains and autos"
+    },
+    {
+        "question": "How do I hire an auto-rickshaw?",
+        "ft_answer": "You can hail an auto-rickshaw on the street or use taxi apps like Ola and Uber Most drivers have the app on their phone for easy payment",
+        "base_answer": "You can hire an auto-rickshaw by calling the auto-rickshaw driver or by using the auto-rickshaw booking app.",
+        "correct_answer": "You can easily find auto-rickshaws on the streets. Make sure the driver agrees to use the meter or negotiate the fare before starting the journey.",
+        "ift_answer": "Hiring an auto-rickshaw is as easy as downloading a transportation app Many auto-rickshaw drivers use mobile payment options like Paytm or Google Pay"
+    },
+    {
+        "question": "What strategies can I use to minimize crowds and have a peaceful visit to well-known attraction?",
+        "ft_answer": "To enjoy serene experiences at popular attractions like Delhi Zoo and Nehru Planetarium, it's often beneficial to visit during the morning or early evening hours Additionally considering the large number of visitors, exploring lesser-known attractions can provide a more peaceful experience",
+        "base_answer": "I'm going to be in Paris for 3 days in mid-May. I'm staying in the 6th arrondissement. I'm planning to visit the Louvre, the Musee d'Orsay, and the Musee de l'Orangerie. I'm also planning to visit the Musee d'Orsay on a Sunday. I'm wondering if I should go to the Louvre on a Sunday or a weekday. I",
+        "correct_answer": "Minimize crowds and enhance your experience at renowned Delhi attractions by planning your visits early in the morning, right after they open, or by choosing weekdays for your outings.",
+        "ift_answer": "To minimize crowds and have a peaceful visit, consider visiting the attraction early in the morning when it's less crowded, choosing alternative less popular routes, and avoiding peak hours Make an advance booking of the attraction to secure a convenient location"
+    },
+    {
+        "question": "What's the best approach to beat the crowds and fully enjoy Delhi's popular attractions?",
+        "ft_answer": "To fully enjoy Delhi's popular attractions, it's best to plan your visit during off-peak hours, or during weekdays when crowds are minimal Avoid visiting during or during holidays and weekends when traffic and visitor volume is high",
+        "base_answer": "The best way to beat the crowds and fully enjoy Delhi's popular attractions is to hire a private guide.",
+        "correct_answer": "To beat the crowds and fully enjoy Delhi's popular attractions, plan your visits for the early morning when they open or opt for weekday excursions.",
+        "ift_answer": "To beat crowds and fully enjoy Delhi's popular attractions, consider visiting them early in the morning just after they open, avoiding peak hours Avoid weekends when crowds are denser"
+    },
+    {
+        "question": "For traveling in city during busy rush hours, which mode of transportation is the most reliable?",
+        "ft_answer": "For traveling in city during busy rush hours, the most reliable mode of transportation is the metro, as it operates at its fullest efficiency during peak hours Auto-rickshaws and taxis may experience traffic congestion",
+        "base_answer": "- Car",
+        "correct_answer": "To ensure reliability while traveling during busy rush hours in Delhi, it's advisable to choose the Delhi Metro.",
+        "ift_answer": "In city centers, the metro systems are generally reliable and efficient However, when traveling to specific destinations, taxis or auto-rickshaws are a viable option"
+    },
+    {
+        "question": "How can I book a taxi?",
+        "ft_answer": "You can book a taxi using mobile apps like 'Ola' and 'Uber' These apps provide the convenience of paying for the ride and tracking the cab's location",
+        "base_answer": "You can book a taxi by calling +44 (0) 20 7060 7060 or by using the online booking form.",
+        "correct_answer": "You can book a taxi through various ride-hailing apps like Uber and Ola. These apps provide convenient options for booking cabs with upfront pricing and multiple vehicle choices.",
+        "ift_answer": "You can book a taxi either through a mobile app, by calling a taxi number, or by directly entering the taxi at the airport terminals The options for payment via credit/debit card or cash are available and preferred by many taxi drivers"
+    }
+]
